@@ -1,0 +1,15 @@
+//
+//  TA.pch
+//  design IM
+//
+//  Created by 杜蒙 on 15/5/30.
+//  Copyright (c) 2015年 &#26460;&#33945;. All rights reserved.
+//
+
+#ifndef design_IM_TA_pch
+#define design_IM_TA_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
